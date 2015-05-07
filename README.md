@@ -11,6 +11,9 @@ Expected features:
 * All users may comment on the activities
 
 When submitting your code, please answer the following questions:
+
 1) What additional features might be useful for this app?
+
 2) What would you change in this app to make it work with a webserver backend?
+
 3) What was the most difficult part of writing this app?
